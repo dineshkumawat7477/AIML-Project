@@ -1,0 +1,26 @@
+January:
+Sunday 02/11/25 January 2025,Food,Samosa,12
+Sunday 02/11/25 January 2025,Other,Haircut(70) + Beard(50),120
+February:
+Sunday 02/11/25 February 2025,Other,Plain Dosa,50
+March:
+Sunday 02/11/25 March 2025,Laundary,5 Clothes wash + 2 Iron,60
+April:
+Tuesday 04/11/25 April 2025,Food,Paneer Patty,30
+August:
+Sunday 02/11/25 August 2025,Food,Samosa,12
+Sunday 02/11/25 August 2025,Other,Haircut(70) + Beard(50),120
+Sunday 02/11/25 August 2025,Other,Plain Dosa,50
+September:
+Sunday 02/11/25 September 2025,Laundary,5 Clothes wash + 2 Iron,60
+Tuesday 04/11/25 September 2025,Food,Paneer Patty,30
+Sunday 02/11/25 September 2025,Food,Samosa,12
+October:
+Sunday 02/11/25 October 2025,Other,Haircut(70) + Beard(50),120
+November:
+Sunday 02/11/25 November 2025,Other,Plain Dosa,50
+Sunday 02/11/25 November 2025,Laundary,5 Clothes wash + 2 Iron,60
+December:
+Tuesday 04/11/25 December 2025,Food,Paneer Patty,30
+
+
